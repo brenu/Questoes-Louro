@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538347016 source:c:\c\hifen_por_underline\main.c
+	<stdio.h>
+	<stdlib.h>
+

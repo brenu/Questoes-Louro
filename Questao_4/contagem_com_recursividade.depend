@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538332551 source:c:\c\contagem_com_recursividade\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

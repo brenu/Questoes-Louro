@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537119110 source:c:\c\contador_de_palavras_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

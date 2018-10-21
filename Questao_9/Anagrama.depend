@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540144132 source:c:\c\anagrama\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

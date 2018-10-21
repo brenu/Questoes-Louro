@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537560005 source:c:\c\string_inicia_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

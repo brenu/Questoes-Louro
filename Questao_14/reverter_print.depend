@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538354509 source:c:\c\reverter_print\main.c
+	<stdio.h>
+	<stdlib.h>
+

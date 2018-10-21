@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1539734364 source:c:\c\conta_digitos\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1540128055 source:c:\c\questao_12\main.c
+	<stdio.h>
+	<stdlib.h>
+

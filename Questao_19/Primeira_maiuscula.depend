@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540138006 source:c:\c\primeira_maiuscula\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

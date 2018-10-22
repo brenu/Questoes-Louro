@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1540141189 source:c:\c\copia_string\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1540141485 source:c:\c\questao_18\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

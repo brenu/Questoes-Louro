@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540212659 source:c:\c\ordem_crescente\main.c
+	<stdio.h>
+	<stdlib.h>
+
